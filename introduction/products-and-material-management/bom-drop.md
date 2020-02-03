@@ -36,9 +36,9 @@ Only one target document can be selected at a time.
 
 ### Selecting BOM Components
 
-When a Product is selected, the lower panel will show the components of the default BOM for that product. Only [_**Component Types**_](product-setup/defining-the-product/product-bill-of-materials/bom-components.md#component-type) **Component**, **Option,** or **Variant** will be shown. However, if the ****_**Explode BOM**_ ****checkbox is selected, any component type that represents a BOM will be exploded to the lowest level. For example, a **Phantom** component will not appear in the lower panel but its sub-components will if the top level BOM is exploded.
+When a Product is selected, the lower panel will show the components of the default BOM for that product. Only [Component Types](product-setup/defining-the-product/product-bill-of-materials/bom-components.md#component-type) **Component**, **Option,** or **Variant** will be shown. However, if the _**Explode BOM**_ checkbox is selected, any component type that represents a BOM will be exploded to the lowest level. For example, a [Phantom](product-setup/defining-the-product/product-bill-of-materials/bom-components.md#component-type) component type will not appear in the lower panel but its sub-components will if the top level BOM is exploded.
 
-The lower selection panel is a list of the BOM sub-components. **Option** and **Variant** component types will be grouped by the [Feature](product-setup/defining-the-product/product-bill-of-materials/bom-components.md#feature) to which they belong. There will be one **Feature** group for each feature name, Component Type and parent product - even if the feature names are the same.
+The lower selection panel is a list of the BOM sub-components. **Option** and **Variant** component types will be grouped by the [Feature](product-setup/defining-the-product/product-bill-of-materials/bom-components.md#feature) to which they belong. There will be one group for each feature name, Component Type and parent product - even if the feature names are the same.
 
 The fields are as follows:
 

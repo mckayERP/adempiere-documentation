@@ -1,6 +1,6 @@
 # Payment Dialog
 
-The **Payment Dialog** provides a convenient way to complete a payment from a **Sales Order** or **Invoice**. It is accessed by clicking on the button for the Payment Rule which can have a number of labels but will have a payment icon such as ![](../../../.gitbook/assets/payment24.gif) or ![](../../../.gitbook/assets/webui_paymenticon.PNG).
+The **Payment Dialog** provides a convenient way to complete a payment from a **Sales Order** or **Invoice**. It is accessed by clicking on the button for the Payment Rule which can have a number of labels but will have a payment icon such as ![](../../../.gitbook/assets/payment24.gif) or ![](../../../.gitbook/assets/webui_paymenticon%20%281%29.PNG).
 
 {% hint style="info" %}
 A Payment Rule is simply a description of how the order or invoice will be paid, for example, by cash, check or credit card.
@@ -31,7 +31,7 @@ There are some restrictions:
 
 ### Setting the Payment Rule
 
-The Payment Dialog appears as a button, as shown above, displaying the payment icon \(![](../../../.gitbook/assets/payment24.gif)or ![](../../../.gitbook/assets/webui_paymenticon.PNG) \)and labeled with the currently selected method of payment.
+The Payment Dialog appears as a button, as shown above, displaying the payment icon \(![](../../../.gitbook/assets/payment24%20%281%29.gif)or ![](../../../.gitbook/assets/webui_paymenticon.PNG) \)and labeled with the currently selected method of payment.
 
 Clicking the button will open the Payment Dialog. If the source document is not Completed or Waiting Payment and not yet able or ready to accept payment, the Payment Dialog will appear as a combo box listing various payment rules or methods.
 
@@ -88,7 +88,7 @@ The Cash Payment requires
 | _**Account Date**_ | The date of the accounting consequences.  This will also be used as the date of the transaction.  The date may be different than the date of the source document.  The default is the current date. |
 | _**Amount**_ | The remaining unpaid amount for this document.  Note the restrictions and warnings above. |
 
-On clicking Confirm \(![](../../../.gitbook/assets/webui_iconconfirm.PNG)\), a cash payment will be created, completed and added to the selected Cash Journal. If possible, the payment will be allocated towards an invoice.
+On clicking Confirm \(![](../../../.gitbook/assets/webui_iconconfirm%20%282%29.PNG)\), a cash payment will be created, completed and added to the selected Cash Journal. If possible, the payment will be allocated towards an invoice.
 
 ### **Check**
 
@@ -110,7 +110,7 @@ The Check Payment fields require the following
 The system can be configured to overwrite the payment document number with the check information. For a receipt, the resulting document number will look like : "&lt;Routing No&gt;: &lt;Account No&gt; &lt;Check No&gt;. For payments, the outgoing check number will be used.
 {% endhint %}
 
-On clicking ![](../../../.gitbook/assets/webui_iconconfirm.PNG) Confirm, the payment information will be saved adn allocated to the invoice if possible.
+On clicking ![](../../../.gitbook/assets/webui_iconconfirm%20%281%29.PNG) Confirm, the payment information will be saved and allocated to the invoice if possible.
 
 ### **Credit Card**
 

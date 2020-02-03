@@ -4,7 +4,7 @@ The **Account Dialog** provides a method to select an account from the Chart of 
 
 ## Access
 
-| Icon | ![](../../../.gitbook/assets/account24.gif) ![](../../../.gitbook/assets/infoaccount24.webicon.png) |
+| Icon | ![](../../../.gitbook/assets/account24.gif) ![](../../../.gitbook/assets/infoaccount24.webicon%20%281%29.png) |
 | :--- | :--- |
 | Field: | [Account Field](../entering-data-fields-and-buttons/#account) |
 

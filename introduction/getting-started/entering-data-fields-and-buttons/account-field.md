@@ -6,7 +6,7 @@ description: The Account Field
 
 ![An Account field in the Accounting tab of the Product window.](../../../.gitbook/assets/swing_field_account_example.PNG)
 
-Icons: ![](../../../.gitbook/assets/account24.gif) ![](../../../.gitbook/assets/infoaccount24.webicon.png)
+Icons: ![](../../../.gitbook/assets/account24%20%281%29.gif) ![](../../../.gitbook/assets/infoaccount24.webicon.png)
 
 The Account field displays the details of a selected set of [Accounting Dimensions](../../../glossary.md#accounting-dimension) referred to as a [Combination](../../../glossary.md#combination). It is usually found on Accounting tabs which provide accounting information related to the parent tab.
 
